@@ -17,7 +17,7 @@ Meu jeito de trabalhar: em vez de vender promessa, chego na conversa com o proje
 | Rei do Lube | Centro automotivo | [reidolube.com.br](https://www.reidolube.com.br/) |
 | Fit Way Club | Academia | [fitwayclub.com.br](https://www.fitwayclub.com.br/) |
 | ML Ensino Individualizado | Reforço escolar | [mlensinoindividualizado.com](https://www.mlensinoindividualizado.com/) |
-| Portuguese with Audio | Produto próprio (curso de português) | [portuguesewithaudio.netlify.app](https://portuguesewithaudio.netlify.app) |
+| Portuguese with Audio | Produto próprio (curso de português) | [portuguesewithaudio.com](https://portuguesewithaudio.com/) |
 
 Todos com SEO on-page, Google Search Console e botão direto pro WhatsApp.
 
