@@ -21,6 +21,17 @@ Meu jeito de trabalhar: em vez de vender promessa, chego na conversa com o proje
 
 Todos com SEO on-page, Google Search Console e botão direto pro WhatsApp.
 
+### Projeto em destaque: Curionautas
+
+**[curionautasapp.netlify.app](https://curionautasapp.netlify.app)** — jogo educativo para crianças do 1º ao 6º ano aprenderem matemática, lógica, programação e inglês brincando.
+
+- 4 mundos × 6 séries × 10 fases, com trilha em mapa de aventura, chefões, medalhas e patentes
+- Se adapta à série de cada criança; 6 temas que mudam personagem, cores e o contexto das histórias
+- Jogo inteiro em português ou inglês, com leitura em voz alta
+- Instalável como app (PWA) e funciona sem internet
+- Área dos pais com progresso, onde a criança trava e limite de tempo
+- React + TypeScript + Vite + Tailwind · 255 testes automáticos · Lighthouse 100 em SEO e acessibilidade
+
 ### O que eu construo
 
 - **Sites institucionais e landing pages** — rápidos, responsivos, prontos pro Google
@@ -32,7 +43,7 @@ Todos com SEO on-page, Google Search Console e botão direto pro WhatsApp.
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,fastapi,sqlite,git,github,netlify,vscode&theme=light" alt="HTML, CSS, JavaScript, Python, Flask, FastAPI, SQLite, Git, GitHub, Netlify, VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,python,flask,fastapi,sqlite,git,github,netlify,vscode&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind, Vite, Python, Flask, FastAPI, SQLite, Git, GitHub, Netlify, VS Code" />
 </p>
 
 Também: n8n · Selenium · BeautifulSoup · pandas · LangChain · OpenAI API · Claude · Mercado Pago API · Google Search Console
